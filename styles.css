@@ -95,16 +95,24 @@ section {
 }
 
 #about {
+    text-align: center;
+}
+
+#about .about-content {
     display: flex;
     align-items: center;
     justify-content: center;
-    text-align: center;
 }
 
 #about .portrait {
     border-radius: 50%;
     height: 150px;
     margin-right: 20px;
+}
+
+#about .bio {
+    max-width: 600px;
+    text-align: justify;
 }
 
 #gallery {
