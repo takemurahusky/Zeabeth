@@ -79,7 +79,7 @@ header nav ul li a {
 
 .hero h1 {
     font-size: 3em;
-    margin: 0 0 20px;
+    margin: 4em 0 20px; /* Adjust margin to move the h1 lower */
 }
 
 .cta {
